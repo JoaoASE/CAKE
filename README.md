@@ -1,6 +1,6 @@
-/*CAKE
+
 Happy Birthday ...
-*/
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -219,7 +219,7 @@ a{
 				<div class="flame"></div>
 			</div>
 		</div>
-		<a href="https://youtu.be/3JwsdIMsjN0" target="_blank">My Youtube Channel</a>
+		<a href="https://youtu.be/3JwsdIMsjN0" target="_blank">My Github</a>
 	</div>
 </body>
 </html>
